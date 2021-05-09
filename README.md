@@ -1,2 +1,2 @@
 # stream
-Script to broadcast RTSP camera to RTMP server.
+A script to broadcast RTSP camera to RTMP server.
